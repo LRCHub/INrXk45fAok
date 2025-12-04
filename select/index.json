@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "愛のままにわがままに 僕は君だけを傷つけない",
+  "base_artist": "B'z",
+  "createdAt": "2025-12-04T11:55:43.138424Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "愛のままにわがままに 僕は君だけを傷つけない",
+      "artist": "B'z",
+      "has_synced": true,
+      "path": "select/01_愛のままにわがままに_僕は君だけを傷つけない_B'z.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "愛のままにわがままに 僕は君だけを傷つけない",
+      "artist": "B'z",
+      "has_synced": false,
+      "path": "select/02_愛のままにわがままに_僕は君だけを傷つけない_B'z.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "愛のままにわがままに 僕は君だけを傷つけない",
+      "artist": "B’z",
+      "has_synced": true,
+      "path": "select/03_愛のままにわがままに_僕は君だけを傷つけない_B’z.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "愛のままにわがままに 僕は君だけを傷つけない",
+      "artist": "B'z",
+      "has_synced": true,
+      "path": "select/04_愛のままにわがままに_僕は君だけを傷つけない_B'z.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "愛のままにわがままに 僕は君だけを傷つけない",
+      "artist": "B’z",
+      "has_synced": true,
+      "path": "select/05_愛のままにわがままに_僕は君だけを傷つけない_B’z.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "愛のままにわがままに 僕は君だけを傷つけない",
+      "artist": "B'z - Singles",
+      "has_synced": true,
+      "path": "select/06_愛のままにわがままに_僕は君だけを傷つけない_B'z_-_Singles.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "愛のままにわがままに 僕は君だけを傷つけない",
+      "artist": "B'z",
+      "has_synced": false,
+      "path": "select/pl_01_愛のままにわがままに_僕は君だけを傷つけない_B'z.txt"
+    }
+  ]
+}
